@@ -33,8 +33,9 @@ The `Tree` class is a templated implementation of a k-ary tree, where:
 
 
 ### Running main
-their is a man with examples that do it and show on print / on GUI on Screen
+their a main with examples that do it and show on print / on GUI on Screen
 For Example
+to rum that file write - make tree
 
 ![image](https://github.com/user-attachments/assets/85b1b4de-c16c-4042-a0b1-27e1010c874b)
 
